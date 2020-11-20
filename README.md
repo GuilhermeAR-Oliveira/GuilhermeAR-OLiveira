@@ -19,7 +19,7 @@
 
 ### Get in touch
 
-* LinkedIn: <a href="https://www.linkedin.com/in/guilherme-oliveira-86ar"></a>
-* Facebook: <a href="https://www.facebook.com/guilherme.rezende.98"></a>
-* Telegram: <a href="https://t.me/Guilherme_AR"></a>
+* LinkedIn: <a href="https://www.linkedin.com/in/guilherme-oliveira-86ar">https://www.linkedin.com/in/guilherme-oliveira-86ar</a>
+* Facebook: <a href="https://www.facebook.com/guilherme.rezende.98">https://www.facebook.com/guilherme.rezende.98</a>
+* Telegram: <a href="https://t.me/Guilherme_AR">https://t.me/Guilherme_AR</a>
 
