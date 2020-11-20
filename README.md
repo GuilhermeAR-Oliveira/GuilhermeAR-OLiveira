@@ -1,18 +1,25 @@
-### Hello there! 👋
+### Hi, I'm Guilherme :raised_hand:
 
-<!--
-**GuilhermeAR-Oliveira/GuilhermeAR-OLiveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 I'm a university student of information systems, a front-end developer and a software tester. I'm currently working as a intern at <a href="https://site.vipcommerce.com.br/">VipCommerce</a>. I'm also a classical guitar player and a music teacher!.
 
-### I'm [Guilherme Oliveira]()
 
-Here are some ideas to get you started:
+⭐️ From [GuilhermeAR-Oliveira](https://github.com/GuilhermeAR-Oliveira)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- classical guitar player :guitar:
+- gamer enthusiast  :video_game:
+- martial art practitioner
+- basketball player for fun  :basketball:
+
+### Languages and Tools
+
+- Java, C, C#, PHP, Python, JavaScript, SQL
+- Linux, AWS, VirtualBox, VSCode, DBeaver, Shell
+
+### Get in touch
+
+* LinkedIn: <a href="https://www.linkedin.com/in/guilherme-oliveira-86ar"></a>
+* Facebook: <a href="https://www.facebook.com/guilherme.rezende.98"></a>
+* Telegram: <a href="https://t.me/Guilherme_AR"></a>
+
